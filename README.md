@@ -8,3 +8,6 @@ This project required a mix of cybersecurity skills: incident response, digital 
 I mapped the evidence to MITRE ATT&CK techniques, and recommended controls such as configuring proper network segmentation, EDR alert optimization, MFA, firewall rules, and incident response playbooks. 
 This project also gave me room to improve my technical communication skills in a way leadership would understand. Instead of describing the technical steps of the attack which are confusing for non-security professionals, I clearly communicated the possible effects of this breach. 
 In summary, this project was beneficial to me because I am most interested in the GRC side of cybersecurity. 
+
+# Note
+See document "ACME_IncidentReport_Christian DuBois. 
